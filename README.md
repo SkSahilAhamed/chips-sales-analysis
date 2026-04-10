@@ -1,21 +1,40 @@
 # Chips Sales Analysis
 
+## 🎯 Objective
+
+The goal of this project is to analyze customer purchasing behavior and identify key drivers of sales performance.
+
 ## 📊 Project Overview
-This project analyzes customer purchasing behavior using transactional sales data to identify trends and patterns.
+
+This project analyzes transactional sales data to uncover trends, customer segments, and product performance.
 
 ## 🛠 Tools Used
-- Python (Pandas, NumPy, Matplotlib)
-- Excel
 
-## 🔍 Key Insights
-- Identified top-performing customer segments contributing to sales  
-- Found most popular brands and pack sizes  
-- Analyzed monthly sales trends  
+* Python (Pandas, NumPy, Matplotlib)
+* Excel
+
+## 🔍 Key Findings
+
+* Premium customers showed higher average spend per transaction compared to budget customers
+* A small number of brands contributed the majority of total sales
+* Mid-sized pack products were purchased more frequently
+* Monthly sales trends showed consistent demand patterns
+
+## 📌 Recommendation
+
+Focus marketing strategies on high-spending customer segments and top-performing brands to maximize revenue.
+
+## 📊 Sample Visualizations
+
+![Top Brands](top_10_brands_sales.png)
+![Monthly Sales Trend](monthly_sales_trend.png)
 
 ## 📁 Files Included
-- analysis.ipynb (project code)
-- sample_data.csv (sample dataset)
-- charts (visualizations)
+
+* analysis.ipynb (project code)
+* sample_data.xls (sample dataset)
+* charts (visualizations)
 
 ## 📈 Outcome
-Generated insights to support better business decisions.
+
+Generated data-driven insights to support better business decisions.
