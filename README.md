@@ -59,4 +59,4 @@ Queries added for:
 SQL file:
 
 ```text
-sql/chips_sales_queries.sql
+chips_sales_queries.sql
