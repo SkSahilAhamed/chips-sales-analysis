@@ -38,3 +38,25 @@ Focus marketing strategies on high-spending customer segments and top-performing
 ## 📈 Outcome
 
 Generated data-driven insights to support better business decisions.
+
+
+## SQL Analysis Included
+
+This project includes SQL queries for business KPI reporting and revenue analysis.
+
+Queries added for:
+- Total revenue
+- Total transactions
+- Unique customers
+- Monthly sales trend
+- Top 10 products by revenue
+- Top 10 brands by revenue
+- Pack size performance
+- Customer segment performance
+- Revenue contribution percentage by brand
+- Brand ranking using window functions
+
+SQL file:
+
+```text
+sql/chips_sales_queries.sql
